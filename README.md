@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @MJavad19
-- 👀 I’m interested in Developing
-- 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on Front-end developing
+- 👋 Hi, I’m Mohammad Javad
+- 🖥️ I am Front-end developer
 - 📫 How to reach me: javadjabari7@gmail.com
 
 <!---
